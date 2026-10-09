@@ -17,7 +17,7 @@ Esse projeto foi feito para o Estudo de Caso 3 da matéria de Design Profissiona
 
 <br>
 
-> ** REPOSITÓRIO OFICIAL - HARUKI AUTOCENTER**
+> **REPOSITÓRIO OFICIAL - HARUKI AUTOCENTER**
 >
 > Desenvolvido e mantido por José e Harukihk
 
